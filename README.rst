@@ -1,0 +1,11 @@
+Usage
+=====
+
+::
+
+	$ python example/loop.py &
+	Process running with PID 6319
+
+	$ pyinject memdump 9909
+	# ...
+	Dumping Meliae output to maliae-dump-9909.json
