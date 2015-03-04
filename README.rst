@@ -4,7 +4,7 @@ Usage
 ::
 
 	$ python example/loop.py &
-	Process running with PID 6319
+	Process running with PID 9909
 
 	$ pyinject memdump 9909
 	# ...
